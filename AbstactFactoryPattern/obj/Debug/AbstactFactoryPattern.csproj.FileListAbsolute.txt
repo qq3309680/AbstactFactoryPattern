@@ -1,0 +1,6 @@
+E:\users\tanz01\AbstactFactoryPattern\AbstactFactoryPattern\bin\Debug\AbstactFactoryPattern.exe.config
+E:\users\tanz01\AbstactFactoryPattern\AbstactFactoryPattern\bin\Debug\AbstactFactoryPattern.exe
+E:\users\tanz01\AbstactFactoryPattern\AbstactFactoryPattern\bin\Debug\AbstactFactoryPattern.pdb
+E:\users\tanz01\AbstactFactoryPattern\AbstactFactoryPattern\obj\Debug\AbstactFactoryPattern.csprojResolveAssemblyReference.cache
+E:\users\tanz01\AbstactFactoryPattern\AbstactFactoryPattern\obj\Debug\AbstactFactoryPattern.exe
+E:\users\tanz01\AbstactFactoryPattern\AbstactFactoryPattern\obj\Debug\AbstactFactoryPattern.pdb
